@@ -1,2 +1,2 @@
 # InternTraining
-Intern
+Intern training
