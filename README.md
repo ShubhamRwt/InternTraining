@@ -1,4 +1,2 @@
 # InternTraining
-Intern training 
-
-Shubham's Assignment
+This is the txt file by Shravani for PR.
